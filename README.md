@@ -1,2 +1,0 @@
-# tukangkredit
-Tulang kredit Panci
